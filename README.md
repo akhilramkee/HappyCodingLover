@@ -1,6 +1,6 @@
 <h1 align="center"><b>金龙国</b><br>Agile Full Stack Developer at <a href="http://fivestarsmobi.com/">FiveStarsMobi</a></h1>
 
-<p align="center">❤ Visitor Counts ❤<br><br>
+<a target="blank" href="https://profile-counter.glitch.me/happycodinglover/count.svg"><p align="center">❤ Visitor Counts ❤<br><br> <img src="https://profile-counter.glitch.me/happycodinglover/count.svg" /></a>
 <h3 align="center">
 Platform&Tools
 </h3>
