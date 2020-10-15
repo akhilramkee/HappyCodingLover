@@ -28,8 +28,6 @@ Platform&Tools
   <a href= "https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=happycodinglover&count_private=true&theme=tokyonight&include_all_commits=true&show_icons=true" /></a>
 </p>
 
-<details>
-  <summary> More things </summary>
   <br>
     <p>
         <a href= "https://github.com/anuraghazra/github-readme-stats"><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=happycodinglover&layout=compact" /></a>
@@ -44,4 +42,3 @@ Platform&Tools
     - 📫 How to reach me: moonshot191@gmail.com<br />
     - ⚡ Fun fact: I am keen on fishing 🎣🐟🐠🦈<br />
     
-</details>
